@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-telethon
-cryptography
+python-telegram-bot
 python-dotenv
+cryptography
