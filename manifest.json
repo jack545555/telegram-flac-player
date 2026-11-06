@@ -1,0 +1,12 @@
+{
+  "id": "bd.telegram.flacplayer",
+  "name": "Telegram FLAC Player",
+  "version": "1.0.0",
+  "description": "Telegram FLAC Music Source",
+  "resources": [
+    "search",
+    "stream"
+  ],
+  "bitchordAuth": true,
+  "allowDownloads": 0
+}
